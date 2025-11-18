@@ -1,0 +1,6 @@
+.sass-cache
+*~
+*.swp
+.idea
+.jekyll-cache/
+_site/
