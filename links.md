@@ -10,8 +10,8 @@ author_footer: false
 
 ### All about matrices
 
-  * [A Geometrical Understanding of Matrices][]
   * [A Programmer’s Intuition for Matrix Multiplication][]
+  * [A Geometrical Understanding of Matrices][]
   * [Theory: Matrix Multiplication][]
 
 
