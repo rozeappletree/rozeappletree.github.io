@@ -6,15 +6,15 @@ comments: false
 author_footer: false
 ---
 
-## Topic 1
+## MATH
 
-* [link 1][] - Link description
+### All about matrices
 
-## Topic 2
-* [link 2][] - Description here 
-* [link 3][] - Description here
+  * [link 1][] - A Geometrical Understanding of Matrices
+  * [link 2][] - A Programmer’s Intuition for Matrix Multiplication
+  * [link 3][] - Theory: Matrix Multiplication
 
 
-[link 1]: https://google.com
-[link 2]: https://google.com
-[link 3]: https://google.com
+[link 1]: https://gregorygundersen.com/blog/2018/10/24/matrices/
+[link 2]: https://betterexplained.com/articles/matrix-multiplication/
+[link 3]: https://textbooks.math.gatech.edu/ila/matrix-multiplication.html
