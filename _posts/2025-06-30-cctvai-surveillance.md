@@ -3,8 +3,8 @@ layout: post
 title:  "CCTVAI: Realtime Surveillance & Data Driven Insights"
 date:   2025-06-30 10:00:00 +0800
 categories:
-- demo
-tags: [cv, tracking]
+- Demo
+tags: [CV, Tracking]
 ---
 
 ## CCTVAI: Realtime Surveillance & Data Driven Insights
