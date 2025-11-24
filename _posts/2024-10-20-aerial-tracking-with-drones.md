@@ -3,8 +3,8 @@ layout: post
 title:  "Aerial Tacking With Drones"
 date:   2024-10-20 10:00:00 +0800
 categories:
-- demo
-tags: [demo, cv, drone, tracking, edge]
+- Demo
+tags: [Demo, CV, Drone, Tracking, EdgeAI]
 ---
 
 ## Aerial Tacking With Drones
