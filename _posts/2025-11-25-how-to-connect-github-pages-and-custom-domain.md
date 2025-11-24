@@ -18,6 +18,7 @@ A  @  185.199.110.153  AUTO TTL
 A  @  185.199.111.153  AUTO TTL
 CNAME Record  www  rozeappletree.github.io  60mins TTL
 ```
+
 And then just paste the domain without `www` in "settings" > "pages" > "custom domains". eg. `aixp.com`
 
 references: 
