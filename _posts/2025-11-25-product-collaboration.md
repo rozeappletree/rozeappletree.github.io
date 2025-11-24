@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Product Collab: Let us build together!"
+title:  "Product Collab: Let Us Build Together!"
 date:   2025-11-23 10:00:00 +0800
 categories:
 - Product
