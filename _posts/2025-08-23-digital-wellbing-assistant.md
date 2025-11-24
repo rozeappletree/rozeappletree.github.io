@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NightKnight: A Digital Wellbeing Assistant"
-date:   2025-11-23 10:00:00 +0800
+date:   2025-08-23 10:00:00 +0800
 categories:
 - demo
 tags: [demo, android]
