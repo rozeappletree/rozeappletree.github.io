@@ -11,4 +11,4 @@ tags: [demo, cv, drone, tracking, edge]
 
 One of the products built under [MyAiXp.com](https://myaixp.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zvgx4_wkOcI?si=_US1AeTNSxdRL-r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2EbzjPUoU8s?si=W5duKAzqrWnyOipH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
