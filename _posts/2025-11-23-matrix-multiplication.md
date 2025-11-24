@@ -3,8 +3,8 @@ layout: post
 title:  "Intuition Behind Matrix Multiplication"
 date:   2025-11-23 10:00:00 +0800
 categories:
-- math
-tags: [matrix, linalg]
+- Math
+tags: [Math, Matrix, Linear Algebra]
 ---
 
 # Intuition Behind Matrix Multiplication
