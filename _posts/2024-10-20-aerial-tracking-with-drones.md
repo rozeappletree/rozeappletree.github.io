@@ -4,7 +4,7 @@ title:  "Aerial Tacking With Drones"
 date:   2024-10-20 10:00:00 +0800
 categories:
 - computer vision
-tags: [cv, drone, tracking, edge]
+tags: [demo, cv, drone, tracking, edge]
 ---
 
 ## Aerial Tacking With Drones
