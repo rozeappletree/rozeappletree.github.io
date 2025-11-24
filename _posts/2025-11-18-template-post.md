@@ -5,6 +5,7 @@ date:   2025-11-18 10:00:00 +0800
 categories:
 - general
 tags: [template, example]
+published: false
 ---
 
 This is a template post that shows off the various formatting options available for blog posts.
