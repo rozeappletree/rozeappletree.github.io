@@ -21,9 +21,13 @@ CNAME Record  www  rozeappletree.github.io  60mins TTL
 
 And then just paste the domain without `www` in "settings" > "pages" > "custom domains". eg. `aixp.com`
 
-references: 
 
-- [x] https://www.youtube.com/watch?v=2K7asqt8wMw
-- [x] https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
-- [x] use different repo (https://github.com/rozeappletree/seemyaixp) for subdomain. https://thomasgauvin.com/writing/setting-up-a-subdomain-github-pages-namecheap/
-- [ ] https://www.namecheap.com/support/knowledgebase/article.aspx/9678/2237/how-to-redirect-subdomain-to-a-certain-ip-address-along-with-a-port/
+---
+
+### Help: 
+
+* [How to use your Custom Namecheap Domain Name for GitHub Pages](https://www.youtube.com/watch?v=2K7asqt8wMw)
+* [Configuring an apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)
+* [Subdomain with GH pages and Namecheap](https://thomasgauvin.com/writing/setting-up-a-subdomain-github-pages-namecheap)
+* [Redirect the subdomain to a certain IP address along with a port](https://www.namecheap.com/support/knowledgebase/article.aspx/9678/2237/how-to-redirect-subdomain-to-a-certain-ip-address-along-with-a-port/
+)
