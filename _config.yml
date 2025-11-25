@@ -1,11 +1,11 @@
 # Site settings
-title: asra.dev
+title: Asapanna Rakesh 
 author: "RoseAppleTree"
 author_avatar: /images/header.jpg
 email: alias@domain.tld
-description: some desc here
-url: "https://dongyadoit.com"
-domain: "http://dongyadoit.com"
+description: Asapanna Rakesh's Dev Blog
+url: "https://inside.asra.dev"
+domain: "https://inside.asra.dev"
 github_username: rozeappletree
 github_site_repo: rozeappletree/blog-template
 disqus: blog-template-3
