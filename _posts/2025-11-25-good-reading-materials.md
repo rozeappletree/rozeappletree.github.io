@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Good Reading Materials"
+date:   2025-11-23 10:00:00 +0800
+categories:
+- Reading Materials
+tags: [Books, Research Papers, Whitepapers]
+---
+
+# List of Good Reading Materials
+
+This may include video lectures.
+
+### Artificial Intelligence
+
+* [Reasoning Engines By Antonio Gulli
+](https://docs.google.com/document/d/1WUk_A3LDvRJ8ZNvRG--vhI287nDMR-VNM4YOV8mctbI)
+* [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
