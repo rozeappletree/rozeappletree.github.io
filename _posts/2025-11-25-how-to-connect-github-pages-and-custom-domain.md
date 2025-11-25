@@ -24,7 +24,7 @@ And then just paste the domain without `www` in "settings" > "pages" > "custom d
 
 ---
 
-### Help: 
+### Help
 
 * [How to use your Custom Namecheap Domain Name for GitHub Pages](https://www.youtube.com/watch?v=2K7asqt8wMw)
 * [Configuring an apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)
