@@ -16,3 +16,4 @@ This may include video lectures.
 * [Reasoning Engines By Antonio Gulli
 ](https://docs.google.com/document/d/1WUk_A3LDvRJ8ZNvRG--vhI287nDMR-VNM4YOV8mctbI)
 * [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+* [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book/)
