@@ -18,3 +18,5 @@ This may include video lectures.
 * [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book/)
 * [Agentic Design Patterns By Antonio Gulli](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
+* [From Code Foundation Models to Agents and Applications: A
+Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
