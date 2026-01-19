@@ -20,3 +20,4 @@ This may include video lectures.
 * [Agentic Design Patterns By Antonio Gulli](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic)
 * [From Code Foundation Models to Agents and Applications: A
 Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
+* [Transformers Interpretability (ARENA Chapters)](https://arena-chapter1-transformer-interp.streamlit.app/)
