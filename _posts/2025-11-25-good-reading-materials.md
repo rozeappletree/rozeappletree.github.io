@@ -21,3 +21,8 @@ This may include video lectures.
 * [From Code Foundation Models to Agents and Applications: A
 Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
 * [Transformers Interpretability (ARENA Chapters)](https://arena-chapter1-transformer-interp.streamlit.app/)
+
+
+### Algorithms (Long Form)
+
+* [Understanding Compression](https://www.oreilly.com/library/view/understanding-compression/9781491961520/)
