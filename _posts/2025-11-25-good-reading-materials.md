@@ -25,4 +25,4 @@ Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
 
 ### Algorithms (Long Form)
 
-* [Understanding Compression](https://www.oreilly.com/library/view/understanding-compression/9781491961520/)
+* [Understanding Compression – by Colt McAnlis, Aleks Haecky](https://www.oreilly.com/library/view/understanding-compression/9781491961520/)
