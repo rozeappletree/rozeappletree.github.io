@@ -21,6 +21,8 @@ This may include video lectures.
 * [From Code Foundation Models to Agents and Applications: A
 Practical Guide to Code Intelligence](https://arxiv.org/pdf/2511.18538)
 * [Transformers Interpretability (ARENA Chapters)](https://arena-chapter1-transformer-interp.streamlit.app/)
+* [ickma.dev](ickma.dev) — Notes on Deep Learning and Math
+A growing collection of structured study notes and visual explanations — written for clarity, reproducibility, and long-term memory.
 
 
 ### Algorithms (Long Form)
